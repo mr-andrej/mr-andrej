@@ -5,7 +5,6 @@ WebDev in training
 
 
 E-mail: mrandrej.ilievski@gmail.com
-GitHub: [mr-andrej](https://github.com/mr-andrej)
 
 ## Presentation of my current situation
 
