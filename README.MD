@@ -34,6 +34,7 @@ None.
 * PHP (Novice)
 * Javascript (Novice)
 * SQL [with mySQL and PostgreSQL] (Novice)
+* SCSS (Fundamental Awareness)
 * Java (Fundamental Awareness)
 
 ## Tools and IDEs
