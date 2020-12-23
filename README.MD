@@ -4,7 +4,7 @@ WebDev in training
 ![Me, Andrej](https://i.imgur.com/X1boVdL.jpg) 
 
 
-E-mail: mrandrej.ilievski@gmail.com
+E-mail: moi@mrandrej.com
 
 ## Presentation of my current situation
 
