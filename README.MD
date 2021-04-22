@@ -6,7 +6,7 @@ WebDev in training
 
 E-mail: moi@mrandrej.com
 
-## Presentation of my current situation
+## Presentation of my current situation (This CV is out of date, check my LinkedIn for more accurate information)
 
 I'm a WebDev in training at [WildCodeSchool](https://www.wildcodeschool.com/fr-FR/campus/strasbourg). Here I aim to get my BAC+2 as a "Web and Mobile Applications Developer" before continuing my training further. I intend to continue my training and acquire a BAC+4 after this, specifically the title "Application Designer & Developer". After this second part of my professional training, I will continue to Epitech for a Masters in Cybersecurity (BAC+5) with the title of "Network and Security System Architect".
 
@@ -19,7 +19,8 @@ __WildCodeSchool Strasbourg__ First year consists learning web development with 
 __Epitech Strasbourg__ I was in Epitech for one year where I learned C. The first 5 weeks were done in a intense bootcamp environment, where students would spend 50-80h working in the building. After that the pace slowed down to a regular full-time workweek load of 30-40h.
 
 ## Experience
-None.
+`2020-`
+__Okédoc__ 
 
 ## Technical skills
 ##### Skill level translations:
