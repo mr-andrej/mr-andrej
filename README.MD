@@ -9,7 +9,7 @@ I currently have a **BAC+2** (RNCP31114: Développeur web et web mobile) in the 
 ## Experience
 `Feb 2021 - Apr 2022`
 __Okédoc__ 
-Health tech startup offering a chatbot, e-learning, and a self-reported well-being tracker. I was the main developer on the web application for the Multiple Sclerosis suite of services. I developed it from (almost) scratch using C# / .NET Core 3.1 with the use of Azure services for the hosting and SQL server.
+Health tech startup offering a chatbot, e-learning, and a self-reported well-being tracker. I was the main developer on the web application for the Multiple Sclerosis suite of services. I developed it from (almost) scratch using C# / .NET Core 3.1 with the use of Azure services for the hosting and SQL server. ([Check them out here](https://www.okedoc.fr/))
 
 ## Technical skills
 
