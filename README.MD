@@ -13,10 +13,10 @@ Health tech startup offering a chatbot, e-learning, and a self-reported well-bei
 
 ## Technical skills
 
-#### Programming languages
+#### Programming languages (and style sheet languages)
 * C# (.NET Core)
 * Javascript (React / React Native)
-* SCSS
+* SASS
 
 #### Software
 * Adobe Photoshop
