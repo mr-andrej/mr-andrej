@@ -4,7 +4,8 @@ DevOps Engineer
 E-mail: moi@mrandrej.com
 
 ## Education
-I currently have a **BAC+2** (RNCP31114: Développeur web et web mobile) in the French system. I'm in preparation for my bachelor's / **BAC+3** (RNCP31678: Concepteur développeur d'applications) exam on the 18th of May for which I've prepared a 58 page documentation, a 18 page supporting document, a 60 slide application, and a bonus presentation on an additional mobile application that I made to satisfy the criteria for my examination.
+**BAC+2** (RNCP31114: Développeur web et web mobile)
+**BAC+3** (RNCP31678: Concepteur développeur d'applications) 
 
 ## Experience
 `Feb 2021 - Apr 2022`
