@@ -6,11 +6,11 @@ E-mail: moi@mrandrej.com
 ## Education
 * **BAC +2** (RNCP31114: Développeur web et web mobile) - 2022
 * **BAC +3** (RNCP31678: Concepteur développeur d'applications) - 2022 [Bachelor]
-* **BAC +5** (RNCP36912: Expert en développement logiciel) - Prévu 2024 [Master]
+* **BAC +5** (RNCP36912: Expert en développement logiciel) - 2024 [Master]
 
 ## Experience
 
-### __Actimage__ [Current]
+### __Actimage__
 `Sept 2022` <br />
 Actimage is a consulting and digital solutions company involved in digital transformation in France, Germany, and Luxembourg. I'm a C# and Java **developer** working on the backend of projects, mostly intranets for public entities.<br /> 
 [Domain: Medicine] <br />
@@ -22,19 +22,20 @@ Health tech startup offering a chatbot, e-learning, and a self-reported well-bei
 [Domain: Medicine] <br />
 ([Company website](https://www.okedoc.fr/))
 
+### __Société Générale__
+`Sept 2023 - Sept 2024` <br />
+As a Full-Stack Developer within the SG Initiatives team in the Data & Digital Services department, I developed new features, resolved bugs, and wrote unit tests using JUnit. Additionally, I created comprehensive E2E test scenarios with Cypress to streamline testing and PM/PO workflows. These scenarios facilitated bulk creation and population of initiatives. The tech stack was Java 11, TypeScript, React, PostgreSQL, and Jenkins.<br />
+[Domain: Financial Services]
+
 ## Technical skills
 
 #### Programming languages
 * C# (.NET Core)
 * Java (J2EE)
-* Javascript (React / React Native)
+* TypeScript
+* JavaScript (React / React Native)
 
 #### Software
 * Adobe Photoshop
 * Adobe Illustrator
 * Adobe InDesign (~~Certified~~ Apparently my certification has expired)
-
-#### Other
-You can find me on CodeWars, though I'm not very active lately. Will be getting back to algo and data structures prep on CodeWars and LeetCode after my exam.
-
-https://www.codewars.com/users/mr-andrej
