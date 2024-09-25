@@ -11,7 +11,7 @@ E-mail: moi@mrandrej.com
 ## Experience
 
 ### __Actimage__
-`Sept 2022` <br />
+`Sept 2022 - Aug 2023` <br />
 Actimage is a consulting and digital solutions company involved in digital transformation in France, Germany, and Luxembourg. I'm a C# and Java **developer** working on the backend of projects, mostly intranets for public entities.<br /> 
 [Domain: Medicine] <br />
 ([Company website](https://www.actimage.com/))
