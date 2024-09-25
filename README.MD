@@ -1,12 +1,12 @@
 # ILIEVSKI Andrej
-DevOps Engineer
+Software Engineer
 
 E-mail: moi@mrandrej.com
 
 ## Education
 * **BAC +2** (RNCP31114: Développeur web et web mobile) - 2022
 * **BAC +3** (RNCP31678: Concepteur développeur d'applications) - 2022 [Bachelor]
-* **BAC +5** (RNCP36912: Expert en développement logiciel) - 2024 [Master]
+* **BAC +5** (RNCP34979: Expert en développement logiciel) - 2024 [Master]
 
 ## Experience
 
