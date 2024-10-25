@@ -7,8 +7,8 @@
 Software Engineer with 3+ years of experience specializing in enterprise applications and health tech solutions. Passionate about creating robust, scalable software solutions using modern technologies.
 
 ## 🎓 Education
-- **Master's Degree** in Software Development (RNCP34979) - 2024
-- **Bachelor's Degree** in Application Development (RNCP31678) - 2022
+- **Master's Degree** in Software Architecture & Development (RNCP34979) - 2024
+- **Bachelor's Degree** in Full-Stack Application Development (RNCP31678) - 2022
 - **Associate's Degree** in Web Development (RNCP31114) - 2022
 
 ## 💼 Professional Experience
@@ -23,7 +23,7 @@ Working with the SG Initiatives team in Data & Digital Services:
 - **Tech Stack**: Java 11, TypeScript, React, PostgreSQL, Jenkins
 
 ### Developer @ Actimage
-`Sept 2022 - Aug 2023` | 🏢 Digital Transformation + 🏥 Health Tech
+`Sept 2022 - Aug 2023` | 🏢 Digital Transformation / 🏥 Health Tech
 
 Lead developer for IPOMEN, an intranet platform used by the French Ministry of Education for creating exams (EDN and ECOS) for medical school students:
 - Developed and implemented a new "point-and-click" question type, requiring significant modifications and integration of open-source code
@@ -31,7 +31,7 @@ Lead developer for IPOMEN, an intranet platform used by the French Ministry of E
   - Managed zones with various metadata
   - Implemented JSON export functionality
 - Maintained and updated two internal codebases used in the development cycle
-- Took care of all new feature development, bug fixes, optimization, and solution delivery to the Ministry
+- Charged with all new feature development, bug fixes, optimization, and solution delivery to the Ministry
 - **Tech Stack**: Java 7, JavaScript, Struts, Hibernate
 
 ### DevOps Engineer @ Okédoc
@@ -56,7 +56,6 @@ Lead developer for a suite of services as a registered [Medical Device](https://
 - Adobe Creative Suite
   - Photoshop
   - Illustrator
-  - InDesign
 
 ---
 <p align="center">
