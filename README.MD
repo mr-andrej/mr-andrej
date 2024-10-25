@@ -37,7 +37,7 @@ Lead developer for IPOMEN, an intranet platform used by the French Ministry of E
 ### DevOps Engineer @ Okédoc
 `Feb 2021 - Apr 2022` | 🏥 Health Tech
 
-Lead developer for a suite of services as a registered [Medical Device](https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/Dispositifs-medicaux#:~:text=Un%20dispositif%20m%C3%A9dical%20est%20un,maladie%20ou%20d'une%20blessure.) in France:
+Lead developer for a suite of services as a registered [medical device](https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/Dispositifs-medicaux#:~:text=Un%20dispositif%20m%C3%A9dical%20est%20un,maladie%20ou%20d'une%20blessure.) in France:
 - Built web application from the ground up using C# / .NET Core 3.1
 - Managed Azure cloud infrastructure and SQL Server
 - Created free-to-use platform for MS (Multiple Sclerosis) patients
