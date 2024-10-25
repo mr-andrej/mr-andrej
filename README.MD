@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Andrej ILIEVSKI
+# 👋 Hi, I'm Andrej
 
 [![Email](https://img.shields.io/badge/Email-moi%40mrandrej.com-blue?style=flat-square&logo=gmail)](mailto:moi@mrandrej.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mr-andrej)
