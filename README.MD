@@ -8,7 +8,7 @@ Software Engineer with 3+ years of experience specializing in enterprise applica
 
 ## 🎓 Education
 - **Master's Degree** in Software Architecture & Development (RNCP34979) - 2024
-- **Bachelor's Degree** in Full-Stack Application Development (RNCP31678) - 2022
+- **Bachelor's Degree** in Desktop & Mobile Application Development (RNCP31678) - 2022
 - **Associate's Degree** in Web Development (RNCP31114) - 2022
 
 ## 💼 Professional Experience
