@@ -32,8 +32,8 @@ As a Full-Stack Developer within the SG Initiatives team in the Data & Digital S
 #### Programming languages
 * C# (.NET Core)
 * Java (J2EE)
-* TypeScript
-* JavaScript (React / React Native)
+* TypeScript (Next.js, React, React Native)
+* JavaScript
 
 #### Software
 * Adobe Photoshop
