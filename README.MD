@@ -14,13 +14,13 @@ Software Engineer with 3 years of experience with a keen interest in financial m
 
 ## 💼 Professional Experience
 
-### Full-Stack Developer @ Natixis CIB
+### Full-Stack Developer @ [Natixis CIB](https://cib.natixis.com/Home/default.aspx)
 `Sept 2025 - Current` | 🏛️ Financial Services
 
 Working within the Credit Risks department on several projects with different technical scopes.
 
 
-### Full-Stack Developer @ Société Générale
+### Full-Stack Developer @ [Société Générale](https://www.societegenerale.com/fr)
 `Sept 2023 - Sept 2024` | 🏛️ Financial Services
 
 Working with the SG Initiatives team in Data & Digital Services:
@@ -29,7 +29,7 @@ Working with the SG Initiatives team in Data & Digital Services:
 - Improved PM/PO workflows through automated testing solutions
 - **Tech Stack**: Java 11, TypeScript, React, PostgreSQL, Jenkins
 
-### Developer @ Actimage
+### Developer @ [Actimage](https://www.actimage.com/fr/)
 `Sept 2022 - Aug 2023` | 🏢 Digital Transformation / 🏥 Health Tech
 
 Lead developer for IPOMEN, an intranet platform used by the French Ministry of Education for creating exams (EDN and ECOS) for medical school students:
@@ -41,7 +41,7 @@ Lead developer for IPOMEN, an intranet platform used by the French Ministry of E
 - Charged with all new feature development, bug fixes, optimisation, and solution delivery to the Ministry
 - **Tech Stack**: Java 7, JavaScript, Struts, Hibernate
 
-### DevOps Engineer @ Okédoc
+### DevOps Engineer @ [Okédoc](https://www.okedoc.fr/)
 `Feb 2021 - Apr 2022` | 🏥 Health Tech
 
 Lead developer for a suite of services as a registered [medical device](https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/Dispositifs-medicaux#:~:text=Un%20dispositif%20m%C3%A9dical%20est%20un,maladie%20ou%20d'une%20blessure.) in France:
