@@ -7,11 +7,18 @@
 Software Engineer with 3+ years of experience specializing in enterprise applications and health tech solutions. Passionate about creating robust, scalable software solutions using modern technologies.
 
 ## 🎓 Education
+- **Master's Degree** in Software Engineering with a specialisation in cloud technology (RNCP38114) - 2025/27
 - **Master's Degree** in Software Architecture & Development (RNCP34979) - 2024
 - **Bachelor's Degree** in Desktop & Mobile Application Development (RNCP31678) - 2022
 - **Associate's Degree** in Web Development (RNCP31114) - 2022
 
 ## 💼 Professional Experience
+
+### Full-Stack Developer @ Natixis CIB
+`Sept 2025 - Current` | 🏛️ Financial Services
+
+Working within the Credit Risks department on several projects with different technical scopes.
+
 
 ### Full-Stack Developer @ Société Générale
 `Sept 2023 - Sept 2024` | 🏛️ Financial Services
