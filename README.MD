@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mr-andrej)
 
 ## 👨‍💻 About Me
-Software Engineer with 3+ years of experience specializing in enterprise applications and health tech solutions. Passionate about creating robust, scalable software solutions using modern technologies.
+Software Engineer with 3 years of experience with a keen interest in financial markets and investment banking. Passionate about creating robust, scalable software solutions using modern technologies.
 
 ## 🎓 Education
 - **Master's Degree** in Software Engineering with a specialisation in cloud technology (RNCP38114) - 2025/27
@@ -38,16 +38,16 @@ Lead developer for IPOMEN, an intranet platform used by the French Ministry of E
   - Managed zones with various metadata
   - Implemented JSON export functionality
 - Maintained and updated two internal codebases used in the development cycle
-- Charged with all new feature development, bug fixes, optimization, and solution delivery to the Ministry
+- Charged with all new feature development, bug fixes, optimisation, and solution delivery to the Ministry
 - **Tech Stack**: Java 7, JavaScript, Struts, Hibernate
 
 ### DevOps Engineer @ Okédoc
 `Feb 2021 - Apr 2022` | 🏥 Health Tech
 
 Lead developer for a suite of services as a registered [medical device](https://www.economie.gouv.fr/dgccrf/Publications/Vie-pratique/Fiches-pratiques/Dispositifs-medicaux#:~:text=Un%20dispositif%20m%C3%A9dical%20est%20un,maladie%20ou%20d'une%20blessure.) in France:
-- Built web application from the ground up using C# / .NET Core 3.1
+- Built the web application from the ground up using C# / .NET Core 3.1
 - Managed Azure cloud infrastructure and SQL Server
-- Created free-to-use platform for MS (Multiple Sclerosis) patients
+- Created a free-to-use platform for MS (Multiple Sclerosis) patients
 - 🔗 [Live Project (Service discontinued)](https://sep.okedoc.fr/) | [Company Website](https://www.okedoc.fr/)
 
 ## 🛠️ Technical Skills
