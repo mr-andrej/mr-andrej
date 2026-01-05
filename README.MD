@@ -29,7 +29,7 @@ Working with the SG Initiatives team in Data & Digital Services:
 - Improved PM/PO workflows through automated testing solutions
 - **Tech Stack**: Java 11, TypeScript, React, PostgreSQL, Jenkins
 
-### Developer @ [Actimage](https://www.actimage.com/fr/)
+### Full-Stack Developer @ [Actimage](https://www.actimage.com/fr/)
 `Sept 2022 - Aug 2023` | 🏢 Digital Transformation / 🏥 Health Tech
 
 Lead developer for IPOMEN, an intranet platform used by the French Ministry of Education for creating exams (EDN and ECOS) for medical school students:
