@@ -10,7 +10,7 @@ Software Engineer with 3 years of experience with a keen interest in financial m
 - **Master's Degree** in Software Engineering with a specialisation in cloud technology (RNCP38114) - 2025/27
 - **Master's Degree** in Software Architecture & Development (RNCP34979) - 2024
 - **Bachelor's Degree** in Desktop & Mobile Application Development (RNCP31678) - 2022
-- **Associate's Degree** in Web Development (RNCP31114) - 2022
+- **Associate's Degree** in Web Application Development (RNCP31114) - 2022
 
 ## 💼 Professional Experience
 
@@ -18,6 +18,9 @@ Software Engineer with 3 years of experience with a keen interest in financial m
 `Sept 2025 - Current` | 🏛️ Financial Services
 
 Working within the Credit Risks department on several projects with different technical scopes.
+- Developing a monitoring application from scratch to monitor the health of the necessary internal API's and data providers
+- Developed a PowerShell script used to industrialise Control-M jobs
+- **Tech Stack**: .NET 10, Angular 21, TypeScript, C#, Azure DevOps
 
 
 ### Full-Stack Developer @ [Société Générale](https://www.societegenerale.com/fr)
