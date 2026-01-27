@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mr-andrej)
 
 ## 👨‍💻 About Me
-Software Engineer with 3 years of experience with a keen interest in financial markets and investment banking. Passionate about creating robust, scalable software solutions using modern technologies.
+Software engineer with 3.5 years of experience with a keen interest in financial markets and investment banking. Passionate about creating robust, scalable software solutions using modern technologies.
 
 ## 🎓 Education
 - **Master's Degree** in Software Engineering with a specialisation in cloud technology (RNCP38114) - 2025/27
