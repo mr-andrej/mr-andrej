@@ -20,7 +20,7 @@ Software engineer with 3.5 years of experience with a keen interest in financial
 Working within the Credit Risks department on several projects with different technical scopes.
 - Developing a monitoring application from scratch to monitor the health of the necessary internal API's and data providers
 - Developed a multi-module PowerShell script used to industrialise Control-M jobs, as well as an accompanying CI/CD pipeline
-- Working on implementing a Redis cache for several teams' applications, requiring coordination with software architects and system administrators for provisioning of machines
+- Working on implementing a Redis cache for several teams' applications, requiring coordination with software architects and system administrators for provisioning of machines. As a part of this process, I'm also preparing an architecture study that is to be presented before an ad-hoc committee for approval
 - **Tech Stack**: .NET 10, Angular 21, TypeScript, C#, Azure DevOps
 
 
