@@ -18,7 +18,7 @@ Software engineer with 3.5 years of experience with a keen interest in financial
 `Sept 2025 - Current` | 🏛️ Financial Services
 
 Working within the Credit Risks department on several projects with different technical scopes.
-- Developing a monitoring application from scratch to monitor the health of the necessary internal API's and data providers
+- Developing a production environment monitoring application from scratch to monitor the health of the necessary internal API's and data providers
 - Developed a multi-module PowerShell script used to industrialise Control-M jobs, as well as an accompanying CI/CD pipeline
 - Working on implementing a Redis cache for several teams' applications, requiring coordination with software architects and system administrators for provisioning of machines. As a part of this process, I'm also preparing an architecture study that is to be presented before an ad-hoc committee for approval
 - **Tech Stack**: .NET 10, Angular 21, TypeScript, C#, Azure DevOps
@@ -29,7 +29,7 @@ Working within the Credit Risks department on several projects with different te
 
 Working with the SG Initiatives team in Data & Digital Services:
 - Developed new features and resolved bugs using Java 11 and TypeScript
-- Created comprehensive E2E test scenarios with Cypress
+- Created comprehensive E2E test scenarios with Cypress that were also used to automate batch creation of projects using a configuration file. This cut down the time it takes to generate a project for testing by over 80%
 - Improved PM/PO workflows through automated testing solutions
 - **Tech Stack**: Java 11, TypeScript, React, PostgreSQL, Jenkins
 
