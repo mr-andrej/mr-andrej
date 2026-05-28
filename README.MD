@@ -1,14 +1,6 @@
-<div align="center">
-Hi, my name is
 
-```
-  █████╗ ███╗   ██╗██████╗ ██████╗ ███████╗     ██╗
- ██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔════╝     ██║
- ███████║██╔██╗ ██║██║  ██║██████╔╝█████╗       ██║
- ██╔══██║██║╚██╗██║██║  ██║██╔══██╗██╔══╝  ██   ██║
- ██║  ██║██║ ╚████║██████╔╝██║  ██║███████╗╚█████╔╝
- ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚════╝
-```
+<div align="center">
+
 
 [![Email](https://img.shields.io/badge/Email-moi%40mrandrej.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moi@mrandrej.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mr-andrej)
