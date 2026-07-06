@@ -21,7 +21,6 @@ Software developer with **4 years of experience** across fintech, health tech, a
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mr-andrej&theme=tokyonight)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mr-andrej&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=mr-andrej&theme=tokyonight&hide_border=true)
 
 </div>
 
