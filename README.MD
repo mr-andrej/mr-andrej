@@ -24,7 +24,7 @@ Full-stack developer with **4+ years shipping production applications** across f
 
 <div align="center">
 
-[![Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg)](https://learn.microsoft.com/en-us/users/mrandrej/credentials/B27F4F8BE3D99FC6)
+<a href="https://learn.microsoft.com/en-us/users/mrandrej/credentials/B27F4F8BE3D99FC6"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Microsoft Certified: Azure Fundamentals (AZ-900)" width="120"></a>
 
 **Microsoft Certified: Azure Fundamentals (AZ-900)** · 2026
 Credential ID: `B27F4F8BE3D99FC6` · [Verify with Microsoft →](https://learn.microsoft.com/en-us/users/mrandrej/credentials/B27F4F8BE3D99FC6)
